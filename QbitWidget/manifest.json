@@ -1,0 +1,13 @@
+{
+  "author": "danman101010",
+  "id": "com.danman101010.qbittorrent-monitor",
+  "name": "qBittorrent Monitor",
+  "description": "Live qBittorrent activity: download and seed counts, transfer speeds, per-torrent progress, and tap-to-pause/resume, via the local relay's Web API.",
+  "version": "1.0.0",
+  "preview_icon": "icon.svg",
+  "min_app_version": "5.47.0",
+  "min_framework_version": "1.0.0",
+  "os": [{ "platform": "windows" }],
+  "supported_devices": [{ "type": "dashboard_lcd", "features": ["sensor-screen"] }],
+  "interactive": true
+}
